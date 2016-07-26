@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+   "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>lblSound</key>
+        <string>音 效：</string>
+        <key>lblMusic</key>
+        <string>背景音：</string>
+        <key>sound</key>
+        <string>音效</string>
+        <key>kaifa</key>
+        <string>开发</string>
+        <key>meigong</key>
+        <string>美工</string>
+        <key>info_service</key>
+        <string>信息与服务</string>
+		    <key>lblHighScore</key>
+        <string>最高分：</string>
+    </dict>
+</plist>

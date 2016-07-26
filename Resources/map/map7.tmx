@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="23" tilewidth="32" tileheight="32" nextobjectid="16">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="./tile.png" width="128" height="96"/>
+ </tileset>
+ <layer name="collideLayer" width="200" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztl+sKwyAMRstgDLf3f9+xH4VOvCQxSaN+BwJd16jTnFnTAQCokZjPv01GAUBMJH7AETALKYvr/dJ1Kf8tDACi03Oitz9g/wAr0/KDUvs4f4CV8d4/asAbEBHKmaN3/tCA4kd+VqLGSuD91BfK+bz0uXefC/ygAT/mYpf3qyguwo+5gB++fkj3UI0AfHbxIwrwo07E36fV7iprZE2k/SoaK/vRas+ijwhzR+HucUWckx61GvKoLY/2rdcBfuj0H5l8fKUxe82fVbteaxB53e/248WM0Xec1u/i5qTsOv/sgcU8HITvNdGqOWoNSfMobWnzZEYkP47L/ZRd9/gohbUfVtHqSwq1hqR5lLa08RiPZN45OZL1HVmT/P+COj4O8AN+aOZwn5/FDy6cPaqW8xAG/JBBXadznjk53D5ONP3o1Y2k7jT9oPbl5Yc0bwY/uHP2Y6Q+rJ6HH/CDgrUfo/Wxux/Sud7FD+lYreoEfvzHF3DZH0I=
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object id="1" name="hero" x="136" y="452" width="50" height="52"/>
+  <object id="2" name="monster0" x="708" y="320" width="56" height="58"/>
+  <object id="3" name="monster1" x="1020" y="156" width="34" height="34"/>
+  <object id="4" name="monster2" x="1062" y="510" width="38" height="28"/>
+  <object id="5" name="monster3" x="1322" y="504" width="36" height="38"/>
+  <object id="6" name="monster4" x="1620" y="350" width="40" height="32"/>
+  <object id="7" name="monster5" x="2014" y="220" width="42" height="32"/>
+  <object id="8" name="monster6" x="2282" y="480" width="32" height="34"/>
+  <object id="9" name="monster7" x="3172" y="292" width="30" height="22"/>
+  <object id="10" name="monster8" x="3772" y="284" width="32" height="32"/>
+  <object id="11" name="monster9" x="4586" y="436" width="54" height="30"/>
+  <object id="12" x="4628" y="458"/>
+  <object id="13" name="monster10" x="5424" y="316" width="26" height="34"/>
+  <object id="14" name="monster11" x="6118" y="476" width="28" height="30"/>
+ </objectgroup>
+</map>

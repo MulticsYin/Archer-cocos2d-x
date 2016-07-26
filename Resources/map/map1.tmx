@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="80" height="23" tilewidth="32" tileheight="32" nextobjectid="7">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="tile.png" width="128" height="96"/>
+ </tileset>
+ <layer name="collideLayer" width="80" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztk0sKwCAMRKVQir3/gbsoBRe1fsZMjM2DWQlOfJgYHISoPYBx3B+GJX9xYEbOZAX3tx7uD6PGn8ZeWIHh7wTvnhnGfLP5G9ml7e8L93eD+mPsM+JPen8s+Wvtm9kfE8SfNBb89eL+MA6hMDpyfcw370JJkerI9ZVgzOP+dLMlYfeVou2m9j2B7O/pe0tIzrXdtP4Hdt8q/+8P/i69Lg+t
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object id="2" name="monster2" x="1890.91" y="63.6364" width="60.6061" height="60.6061"/>
+  <object id="3" name="monster3" x="2275.76" y="324.242" width="54.5455" height="54.5455"/>
+  <object id="4" name="hero" x="100" y="318.182" width="54.5455" height="60.6061"/>
+  <object id="6" name="monster1" x="1148.48" y="190.909" width="57.5758" height="57.5758"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="120" height="23" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="tile.png" width="128" height="96"/>
+ </tileset>
+ <layer name="collideLayer" width="120" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztl0kKwzAQBHUJ/v+Pcwo4oFnUijKKUgV9MFijns3g1gAAAADg33gYgv2xehf1kR7rqDXPnu3FuT/37ohi7LjjI3mv9pvdl1l5d2by9+pkeVZz8PhkHbyYo3izP3ou4896fySXmdnOzFbmO5DtmTIr93ORR3WHsverda5ArbFVJ+/dFfWJdqPnBTRW9VBlNz8AAHAOV7WBA7jQ0Zr9T0cIoUhtAw/oN/Wi2gd678cIUZzqnFbW6oRcFao9f0NP0wgVZg==
+  </data>
+ </layer>
+</map>

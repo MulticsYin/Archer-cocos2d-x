@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="68" height="20" tilewidth="32" tileheight="32" nextobjectid="10">
+ <tileset firstgid="1" name="map_0" tilewidth="32" tileheight="32">
+  <image source="tile.png" width="128" height="96"/>
+ </tileset>
+ <layer name="baseLayer" width="68" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0jEKwCAQBdFtNOj9D5yUaiH7SdQo82A6YUXXDACwq/iUV19ioCiez/buPdR5Panoq5mpk3re22zK7BX381J3yfsHf/uv1i57BpzkoqpAREQ0oBupHQwt
+  </data>
+ </layer>
+ <objectgroup name="objLayer" visible="0">
+  <properties>
+   <property name="Collidable" value="ture"/>
+  </properties>
+  <object id="4" x="3.0303" y="287.879">
+   <polyline points="0,0 215.152,0 209.091,-27.2727 278.788,-27.2727"/>
+  </object>
+  <object id="5" x="327.273" y="290.909">
+   <polyline points="0,0 221.212,0 224.242,-60.6061 427.273,-60.6061"/>
+  </object>
+  <object id="6" x="933.333" y="227.273">
+   <polyline points="0,0 530.303,-3.0303"/>
+  </object>
+  <object id="7" x="1606.06" y="287.879">
+   <polyline points="0,0 433.333,3.0303"/>
+  </object>
+  <object id="9" x="2048.48" y="193.939">
+   <polyline points="0,0 84.8485,3.0303"/>
+  </object>
+ </objectgroup>
+</map>

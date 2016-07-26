@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="23" tilewidth="32" tileheight="32" nextobjectid="6">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="tile.png" width="128" height="96"/>
+ </tileset>
+ <tileset firstgid="13" name="flagandwood" tilewidth="32" tileheight="32">
+  <image source="flagandwood.png" width="256" height="6176"/>
+ </tileset>
+ <layer name="backgroundgress" width="200" height="23">
+  <data encoding="base64" compression="zlib">
+   eJzt1slKA0EYReEKrnWhPoEDZiOu1FX0KR0hGgNxgnaCxAF0py/g8wS8DS5CkK6/2+ouKc8HZ5c21ZYXdA4AAAAAAAAAAAAAAKRix9NuvKMB0VXZx3zLuQW12GrsmEAUVfaxpF0sqxX2gcTx/xXK6qp+QanoOPaB8gaxD9AQ9oHc50QWmfFzcy17VX7O2NmqquP8G/mP+1hV45l0Wgv8vpnh87nZEhWx7qCu9rTFfXWgDtWROp7ep+H3bNHEff/WeqBz/qVC3knofbQ99xF7H11t4USdqp46U/3JfXy/84bnPSxC3HWIcxRhH8UN9czIUy6VfQy0hXN1oS7VlbpmH0kV8k5e9cybp1y7RIXni1ymLdyoW3Wn7tUD+0iqkHfyrmc+POVS2cdQWxipR/WkntUL+0iquu/kp+9LZR9bxrY972GxWeL76jyH74yx/56b3EeIO5nuC8nYVC8=
+  </data>
+ </layer>
+ <layer name="backgroundthing" width="200" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztmklrFEEYhmtiMOA2YMKM4AZxjYKCooIievToRT2ZeDHxop40ophNzeaauCaaqIHEBRIXSFzAkIueRUXE5KZHj/4A3yZd8qW6qrrH6WUYvwceqqeX6urqfrsqkxGCYRiGYRiGYRiGYRiGYRiGYZJhFVzt4xrL8btLom4hwyTH2oCa2BNyPjhvTNwsTAlR7lqRmrltC9zq4zZL3WHnI+z6GMaPSmRihetKJR87Axy/y7KN88EUM/nmYy/nIycqFQuFfXhv7ocHUv77/k/km4+wcfL2UUyrQueJuajOKZNknWKh5OQg+qga1hRQXyXFJ/jZtdDy8Y2oQueJuejMKU3Zijs7aj5oTpLkMPqhFtYF7I8+OGCxP5pmWqHPteoXn2O/k30nybLkLPqlATbCJtgMW9y+ijMfUWHKlik7UeVmvcUkx5KjuN5j8HjA6x6EQz7GwZQwZ4I6pRxnyxLV4RS8gH5phW2wHXbAziLKhw1ddpzcBO3DyYD75VNHGOdQnxGJc50ncL0nYX0q2LmG4YjGCbIscmib3/s96L0IW4cmeBn9cgVehddgF+wm+Sgr8erHbM0xqvNLhdgIFxD9PjumS/3PXwxkXfPF+R/vD8O2n8rn0/CMYd8Gt1TzMSG8WYmLNDEK2uFNZOEWvA3vwB7YCxeJaZlpbPcg6vtkIiOCZehXgPXNsAWeg+c1+7a6pczHhLCPH5QNRId8+0nX32mlpOelZIlpMbP/5L6z8PyXumNEH8p+eB8+gA/hAJmLloQ0H/8aTjWxkFFKuizvi3w208q6jPA+t/KzNKNZZ2OppZ20jWmynmLKx2+y3AE74UV4yV1XDivcZTl+jMIxWG8ox5RzqLnI9z1iysbfa095z6veJ5oN2v9y/7moY55bzyDKIfgIPoZP4FOSiTkJ5iMtvP0R9ztakhHeLGSFNxtZZXvWsJ9jlfA+47p8qdB6VJa55fIcr68LdsPr8Ia7bjFc4i7L8eMdHIeNhnLc0uawxg2/OmU2dGOFLh/0GAc6fgyjHIHP4HP4Ar6Mefzwm7skTS5toLnQPb+m55/eK2d7NayBh8i6sNqoowf2wrvwnma7HD/eww+wDW6CmzWlrW1hjx/quOFAxw3TPip0HkbHj1GUY/AVfA3fwLcRjB9BMfVdnHN8v3Oo73vdnMl2rNxe5Zoly9JaWAePkOOC/r2R69gRBDl+0DFlO9yhKYuJspRe6zEBvp/6l++9JOq7UxJXPvx+txmHNB/51GP7jWlU/AEMxhsZ
+  </data>
+ </layer>
+ <layer name="collideLayer" width="200" height="23">
+  <data encoding="base64" compression="zlib">
+   eJzt2NEOgyAMQNFlvvn/H7ws2YNZLBYKbYF7Ep7MJqh3Oo8XAMkRPQEgMfoAZPQByOgDkNEHIKMPZHRGT+BnhT4O5Sh9HnrnZYzcRwYrXBuaNXj2scIxLaGPfEr3AfrwRR/3nuYctSb68EUf907FiNDah+a/SYvV+9D+r7OYtQ/L9lGs94/ertfO/++H9l1CzfsFbx5zow+b2vOT6fpqkakdj3ns2ofmPEvPbZZzMXsfJd7deNzrduqj9hlC6sFy3FfuQ2J5lss8LGut1WNurd/V8/i0rrP1c5Fr2VmpD8/93Xkbt2dhnSfXdRz6GI8+5kUf49EHtOijHn3sgz7q0cc+avt4Gllo5vodUe+dtPOzjJllOQYfUAUGJQ==
+  </data>
+ </layer>
+ <objectgroup name="objectsLayer">
+  <object id="1" name="hero" x="235.935" y="366.788" width="80" height="104"/>
+  <object id="2" name="car" x="2342" y="578" width="78" height="66"/>
+  <object id="3" name="monsterone" x="5027" y="380" width="96" height="92"/>
+  <object id="4" name="door" x="5788.67" y="368" width="86" height="106"/>
+  <object id="5" name="obstacle" x="1187.33" y="362" width="53.3333" height="80.6667"/>
+ </objectgroup>
+</map>

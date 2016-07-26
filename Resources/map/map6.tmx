@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="23" tilewidth="32" tileheight="32" nextobjectid="13">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="tile.png" width="128" height="96"/>
+ </tileset>
+ <layer name="collideLayer" width="200" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztl1ELwyAMhEthjPb//+C9bNCVSjVNLqfeB3kQRkwunq7bIoQosXWaWwgE0f6QR0QNW0Og62r5rTW82QNyijxG8Icld1R++WM+RvRHZG62u2ZW9gVzX43mj0hG9wfqzHlQU6vHfDL+g/V6hu50kD9wyB+xRHz3o96TqFmN5o8z0fPwzIdiP8WxBvnjn1n84T0f7/eFwR8Ievu/JX/YQPgj6gwz+CPyLfFkdH+cQb33raC+c672QmLpDaFNKR/r+bhC/vDfrwcY/MGg1V0dPb11rWTd4zNT4zeme1T+wO6XPe9sLP7I1Gxmf7xBcd7vyf6ZfSA0Yu6HQfsavPZ6geJHaW3JdQTVB0Ij5n4YtK8hWydrT6V1bzOKnnt2Lcza15CtU2us3yitLbnWh3nYood+GLS/qiG7Jq+eSuveZhQ99+xamLWXP/hnFD337FpqalySapU/2vXJ7s977tm1MGuP9McHw8MnTg==
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object id="2" name="monster1" x="1062" y="194" width="50" height="54"/>
+  <object id="3" name="monster2" x="1680" y="456" width="40" height="56"/>
+  <object id="4" name="monster0" x="422" y="452" width="44" height="58"/>
+  <object id="5" name="hero" x="164" y="294" width="54" height="52"/>
+  <object id="7" name="monster3" x="2338" y="306" width="56" height="46"/>
+  <object id="9" name="monster5" x="4392" y="324" width="42" height="56"/>
+  <object id="10" name="monster4" x="3758" y="452" width="52" height="56"/>
+  <object id="11" name="monster6" x="5028" y="126" width="50" height="66"/>
+  <object id="12" name="monster7" x="6018" y="236" width="50" height="48"/>
+ </objectgroup>
+</map>

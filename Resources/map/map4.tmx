@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="23" tilewidth="32" tileheight="32" nextobjectid="13">
+ <tileset firstgid="1" name="tile0" tilewidth="32" tileheight="32">
+  <image source="tile0.png" width="320" height="128"/>
+ </tileset>
+ <layer name="background" width="100" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztl9sOgjAMQNEYwSgq6osm+v+f6UjALM3WjbKtBftwomEZjJ1eRl1V1VYRQy1gDYr6kIr6kEVOHxsB78exnjnP0fyQhVQfJ8M5kqOA9eb0IanO7IljOcm5P1Lz41/h8IHVojXVnhI++r1sPUzZS1etSVV/Rt8t0TFnvabkR8xeQm8ccc/VX0r7WPuecDDm5FL6uaQzX851+3rB3P6g0MDy4yBgfSmBfZ7S6+HZMHWMlvRxNdwND8OF0UszMOceOWJ1V9jHy/AeeKqPX3zaUHzYcY79why4WT466zr2TZMCWFNcPqZ+o6bw0cfnBxDy4XonO84xXDkwjoXWSj33xczD8qPx/A/5wPqKL95CPuDZzBcDdpxjdI65a/URuu66FyU/fGMxPrB56kN9LMHHF30lIfk=
+  </data>
+ </layer>
+ <layer name="collideLayer" width="100" height="23" opacity="0.01">
+  <data encoding="base64" compression="zlib">
+   eJzt2FEKgCAMgGGhu3j/I/YURGJsc8tp/wd7CnQunVEpAAAA+INDGQAQgd7jZ4VaZs1rJmoCIALf+WvYrf4ee2zmHvWei7M2hprF0p613nPv+0b7r8oSozlk0MuJ+7/1tnZrbeotrnGkc6/4Pmpp15zBMy9JWMcdmXO36PmifxOy3nECYaYQSA==
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object id="1" name="hero" x="109.091" y="381.818" width="39.3939" height="33.3333"/>
+  <object id="2" name="m1" x="506.061" y="272.727" width="54.5455" height="39.3939"/>
+  <object id="3" name="m2" x="618.182" y="527.273" width="22.7879" height="17.5152"/>
+  <object id="4" name="m3" x="1018.18" y="239.394" width="49.5758" height="19.5152"/>
+  <object id="5" name="m4" x="1248.48" y="527.273" width="17.5758" height="25.4545"/>
+  <object id="6" name="m5" x="1760.61" y="266.667" width="35.3939" height="22.4848"/>
+  <object id="7" name="m6" x="2230.3" y="524.242" width="35.5758" height="33.4545"/>
+  <object id="8" name="m7" x="1684.85" y="515.152" width="24.6061" height="27.3939"/>
+  <object id="9" name="m8" x="2512.12" y="430.303" width="17.3939" height="24.4242"/>
+  <object id="10" name="m9" x="1387.88" y="142.424" width="29.4545" height="17.3939"/>
+  <object id="11" name="m10" x="2924.24" y="566.667" width="35.6364" height="27.3333"/>
+  <object id="12" x="1766" y="276" width="44"/>
+ </objectgroup>
+</map>

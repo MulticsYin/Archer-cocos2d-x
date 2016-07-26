@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="23" tilewidth="32" tileheight="32" nextobjectid="12">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="../../../ArcherMan/Resources/map/tile.png" width="128" height="96"/>
+ </tileset>
+ <layer name="collideLayer" width="200" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztmTEOAjEMBCOkK/j/h6mQKHA4xV7bJDPSVicu3iTTcNcY4yKEEEIIIYSQhplRPZuyX/Vcn/N5+/xbh+7dVqg+A2W/6r29O4OHjF6Z++VZUzHHnblmzzPXVrJjr8g7U3UfV2fJmAHiqHA+mkonLDrNAtD1LnacCaALuAFggx8ANvgBYIMfep7BgTwq/Djt/Kv9mP3+hP33UPH/1al+VL0HP9aJ+t6++t1xdibK7/2KjmrvZ+9e3avIs4zCM0/WfcaPeEe8RLiBHz1jsZsfM2e8rPqAH/1jEeVH5z17d3w408WPbtmhz68z//Ysar3q7vihjbJP1j7hB36oouyTtU/4gR+qKPu8APeVL+w=
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object id="1" name="hero" x="142" y="472" width="42" height="38"/>
+  <object id="2" name="monster0" x="696" y="462" width="42" height="46"/>
+  <object id="3" name="monster1" x="1132" y="424" width="40" height="18"/>
+  <object id="4" name="monster2" x="2078" y="478" width="46" height="34"/>
+  <object id="5" name="monster3" x="2552" y="476" width="52" height="32"/>
+  <object id="6" name="monster4" x="2948" y="384" width="48" height="30"/>
+  <object id="7" name="monster5" x="3406" y="382" width="42" height="30"/>
+  <object id="8" name="monster6" x="4148" y="414" width="36" height="34"/>
+  <object id="9" name="monster7" x="4764" y="568" width="40" height="34"/>
+  <object id="10" name="monster8" x="5432" y="466" width="40" height="40"/>
+  <object id="11" name="monster9" x="5922" y="472" width="42" height="40"/>
+ </objectgroup>
+</map>

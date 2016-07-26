@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="23" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="tile.png" width="128" height="96"/>
+ </tileset>
+ <layer name="块层 1" width="100" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztmN0OgCAIhVlba77/C3ff+hE5KMQ5G3eJRz4yrYlIEyqKmpBHJH3xaMagdMpet7/1xErPM2pJHjhV5jHSn977Q2UeyHzIXNb9LNv3xIMHz17jYm1iafT+QfmI9Y2lKjy8/yug8pNHTB6rfK3sB8sdS3veRnrSSOPXygM1vneOLDxG/VrflacxvTln1Io8cvM4nGPW3Ii8Wo8ea9ud401e8yC9RlhbVR7bTWif7xlXgQeiFuRBHtc4AZx6Ejo=
+  </data>
+ </layer>
+</map>

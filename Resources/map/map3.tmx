@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="23" tilewidth="32" tileheight="32" nextobjectid="12">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="tile.png" width="128" height="96"/>
+ </tileset>
+ <layer name="collideLayer" width="100" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztmN0OgCAIhVlba77/C3ff+hE5KMQ5G3eJRz4yrYlIEyqKmpBHJH3xaMagdMpet7/1xErPM2pJHjhV5jHSn977Q2UeyHzIXNb9LNv3xIMHz17jYm1iafT+QfmI9Y2lKjy8/yug8pNHTB6rfK3sB8sdS3veRnrSSOPXygM1vneOLDxG/VrflacxvTln1Io8cvM4nGPW3Ii8Wo8ea9ud401e8yC9RlhbVR7bTWif7xlXgQeiFuRBHtc4AZx6Ejo=
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object id="1" name="hero" x="112.121" y="400" width="36.3636" height="27.2727"/>
+  <object id="2" name="m1" x="342.424" y="269.697" width="45.4545" height="42.4242"/>
+  <object id="3" name="m2" x="539.394" y="15.1515" width="66.6667" height="48.4848"/>
+  <object id="4" name="m3" x="809.091" y="412.121" width="54.5455" height="30.303"/>
+  <object id="5" name="m4" x="836.364" y="196.97" width="63.6364" height="45.4545"/>
+  <object id="6" name="m5" x="1418.18" y="181.818" width="57.5758" height="39.3939"/>
+  <object id="7" name="m6" x="1312.12" y="539.394" width="57.5758" height="36.3636"/>
+  <object id="8" name="m7" x="1763.64" y="475.758" width="72.7273" height="36.3636"/>
+  <object id="9" name="m8" x="1996.97" y="336.364" width="87.8788" height="42.4242"/>
+  <object id="10" name="m9" x="2433.33" y="400" width="45.4545" height="39.3939"/>
+  <object id="11" name="m10" x="2775.76" y="333.333" width="87.8788" height="57.5758"/>
+ </objectgroup>
+</map>
