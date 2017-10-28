@@ -9,3 +9,8 @@
 * 满硕泉《COCOS2D-X权威指南》
 * Renshan：http://shannn.com/archives/586
 * 红孩儿的游戏编程之路： http://my.csdn.net/honghaier
+
+## License
+
+MulticsQQ source code is licensed under the 
+[Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
