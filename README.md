@@ -12,5 +12,5 @@
 
 ## License
 
-MulticsQQ source code is licensed under the 
+Archer-cocos2d-x source code is licensed under the 
 [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
